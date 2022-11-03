@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.total-mainpagebgcolor {
+    background-color: pink;
+}
+
+.bg-colormain {
+    background-color: #19232d;
+    height: 10vh;
+    color: white;
+    font-size: 60px;
+    font-family: Roboto;
+}
+
+.homeimg-size {
+    height: 40vh;
+    width: 70vw;
+}
+
+.choosepet-btn {
+    color: white;
+    background-color: green;
+    border-width: 0px;
+    width: 140px;
+    text-align: center;
+}
+
+.back-button {
+    color: white;
+    background-color: black;
+    border-width: 0px;
+    width: 100px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.button-submit {
+    color: white;
+    background-color: orange;
+    border-width: 0px;
+    width: 100px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+
+.button {
+    color: white;
+    background-color: #25b1cc;
+    width: 150px;
+    border-width: 0px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.favourite-places-bg-container {
+    background-color: skyblue;
+    background-size: cover;
+    padding: 24px;
+    height: 150vh;
+}
+
+.red {
+    color: red;
+    font-size: 20px;
+}
+
+.blue {
+    color: black;
+    font-size: 20px;
+}
+
+.dogs-head {
+    color: blue;
+    font-size: 50px;
+
+}
+
+.adopt-animal-page {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+    background-color: #19232d;
+    height: 10vh;
+    font-size: 60px;
+}
+
+
+html,
+body {
+    min-height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 14px;
+    color: #666;
+}
+
+h1 {
+    margin: 0 75 30px;
+    font-weight: 400;
+    color: #1c87c9;
+}
+
+label {
+    margin: 0 0 20px;
+    font-weight: 400;
+    font-size: 110%;
+    color: #1c87c9;
+}
+
+#formdiv {
+    margin-bottom: 30px;
+
+}
+
+p {
+    margin: 0 0 5px;
+}
+
+.main-block {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.forms {
+    width: 400px;
+    background: #f5f5f5;
+    padding: 20px;
+    height: 550px;
+}
+
+.forms:hover {
+    width: 400px;
+    box-shadow: 0 2px 5px #f5f5f5;
+    background: #fffdfd;
+    padding: 20px;
+    height: 550px;
+}
+
+form {
+    margin-top: 20px;
+    height: 700px;
+    padding: 25px;
+    width: 1000px;
+    margin: 25px;
+
+
+}
+
+input,
+textarea,
+select {
+    width: calc(100% - 120px);
+    float: right;
+    padding: 8px;
+    border: 1px solid #1c87c9;
+    outline: none;
+}
+
+input::placeholder {
+    color: #666;
+}
+
+button {
+    width: 50%;
+    margin-top: 04%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border: none;
+    background: rgb(238, 89, 20);
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+
+button:hover {
+    background: rgb(243, 65, 20);
+}
+
+.contactus-style {
+    color: white;
+    font-family: Roboto;
+}
+
+.address-imgsize1 {
+    height: 170px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+.address-imgsize {
+    height: 150px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+.background-color {
+    background-color: black;
+    background-size: cover;
+}
+
+.img-size {
+    height: 70px;
+    width: 160px;
+}
